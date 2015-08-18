@@ -25,5 +25,8 @@ puts "Please hold on, I'm still under construction.. or add more lines on me:)"
   	def self.school
 
   	end
+  	def self.work
+
+  	end
 
 end
