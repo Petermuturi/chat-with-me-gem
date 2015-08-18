@@ -22,6 +22,7 @@ Or install it yourself as:
 
 I got a couple of qsts for you before you take me out.My master is still constructing me.
 or add changes to me:) 
+Please make changes to me.
 
 ## Development
 
