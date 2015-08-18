@@ -10,4 +10,6 @@ module Chat
     	puts "interesting, I'm 19 years old.\n Oh and also I don't age;)"
 puts "Please hold on, I'm still under construction.. or add more lines on me:)"
   	end
+  	def self.likes
+  	end
 end
