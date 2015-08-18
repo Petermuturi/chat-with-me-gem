@@ -28,5 +28,8 @@ puts "Please hold on, I'm still under construction.. or add more lines on me:)"
   	def self.work
 
   	end
+  	def self.laundry
+
+  	end
 
 end
