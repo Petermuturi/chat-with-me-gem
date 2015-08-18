@@ -11,6 +11,8 @@ module Chat
 puts "Please hold on, I'm still under construction.. or add more lines on me:)"
   	end
   	def self.likes
-  		
+
+  	end
+  	def self.dislikes
   	end
 end
