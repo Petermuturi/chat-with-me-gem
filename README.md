@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-I got a couple of qsts for you before you take me out. 
+I got a couple of qsts for you before you take me out.My master is still constructing me. 
 
 ## Development
 
