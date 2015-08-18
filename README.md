@@ -1,6 +1,6 @@
 # ChatWithMe
 
-Hey My Name is Shirley, I'm very chatty. install me an dget to know about me:)
+Hey My Name is Shirley, I'm very chatty. install me and get to know about me:)
 
 ## Installation
 
